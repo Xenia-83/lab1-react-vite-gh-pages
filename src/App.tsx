@@ -5,9 +5,7 @@ import Counter from './components/Counter'
 import './App.css'
 
 function App() {
- 
-
-  return (
+     return (
     <>
       <div>
         <a href="https://vite.dev" target="_blank">
